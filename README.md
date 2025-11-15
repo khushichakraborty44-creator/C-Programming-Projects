@@ -41,6 +41,19 @@
 <img width="688" height="548" alt="image" src="https://github.com/user-attachments/assets/579fd010-1e2a-4ae7-b137-641bc2bfc86b" />
 
 ### Project 5: Student Gradebook Ranking
+<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/def86af4-93a8-4708-b6ea-6ea6305bed17" />
+<img width="360" height="772" alt="image" src="https://github.com/user-attachments/assets/348b4c15-6ffc-4af9-9bfb-b6d63eba1824" />
+<img width="366" height="774" alt="image" src="https://github.com/user-attachments/assets/514c7e6e-c06b-465e-9810-3144ee15beff" />
+<img width="381" height="868" alt="image" src="https://github.com/user-attachments/assets/f93b39d2-9eb9-48b4-8673-d5b46c616266" />
+<img width="586" height="811" alt="image" src="https://github.com/user-attachments/assets/c6024923-abde-4a67-9106-54d76d322ae2" />
+
+### Project 6: To Do App
+
+
+
+
+
+
 
 
   
