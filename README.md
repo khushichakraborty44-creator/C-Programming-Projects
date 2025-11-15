@@ -30,6 +30,8 @@
 
 
 ### Project 2: Tic Tac Toe Game
+<img width="606" height="894" alt="image" src="https://github.com/user-attachments/assets/7603ae31-de74-4445-97ef-40ff11a760d7" />
+<img width="605" height="556" alt="image" src="https://github.com/user-attachments/assets/13588cb9-436f-4c02-99d4-20b2e827cfa5" />
 
 
 ### Project 3: Simple Contact Book
