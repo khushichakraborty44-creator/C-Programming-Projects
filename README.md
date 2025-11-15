@@ -16,6 +16,10 @@
 ### Project 5: Rock Paper Scissor Game
 <img width="392" height="200" alt="image" src="https://github.com/user-attachments/assets/3dd08a04-9145-40e0-a218-372993b10a2b" />
 
+### Project 6: Simple Quiz Game
+<img width="587" height="794" alt="image" src="https://github.com/user-attachments/assets/f83f3656-0435-4750-883a-a3e73254b143" />
+<img width="527" height="369" alt="image" src="https://github.com/user-attachments/assets/fdab003b-3cbf-4982-baa8-b5ee0394ae57" />
+
 
 ## C++ Projects
 ### Project 1: Daily Expense Tracker
