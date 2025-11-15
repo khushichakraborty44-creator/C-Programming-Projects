@@ -28,12 +28,16 @@
 ### Project 1: Daily Expense Tracker
 <img width="746" height="474" alt="image" src="https://github.com/user-attachments/assets/bd0ce54e-33fe-4fd6-b943-ec198a93d0fe" />
 
+### Project 2: Simple Contact Book
+<img width="351" height="480" alt="image" src="https://github.com/user-attachments/assets/4208f68f-8cef-44b1-8c7e-9b741e1caefb" />
+<img width="442" height="523" alt="image" src="https://github.com/user-attachments/assets/378714ab-8297-4916-9dad-cc4543b3d473" />
 
-### Project 2: Tic Tac Toe Game
+
+### Project 3: Tic Tac Toe Game
 <img width="606" height="894" alt="image" src="https://github.com/user-attachments/assets/7603ae31-de74-4445-97ef-40ff11a760d7" />
 <img width="605" height="556" alt="image" src="https://github.com/user-attachments/assets/13588cb9-436f-4c02-99d4-20b2e827cfa5" />
 
 
-### Project 3: Simple Contact Book
+
 
   
