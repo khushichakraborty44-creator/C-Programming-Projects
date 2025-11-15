@@ -20,6 +20,9 @@
 <img width="587" height="794" alt="image" src="https://github.com/user-attachments/assets/f83f3656-0435-4750-883a-a3e73254b143" />
 <img width="527" height="369" alt="image" src="https://github.com/user-attachments/assets/fdab003b-3cbf-4982-baa8-b5ee0394ae57" />
 
+### Project 7: Temperature Converter
+<img width="442" height="291" alt="image" src="https://github.com/user-attachments/assets/d8071b7b-a5fc-431e-a13b-949541a32e88" />
+
 
 ## C++ Projects
 ### Project 1: Daily Expense Tracker
